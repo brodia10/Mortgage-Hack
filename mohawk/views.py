@@ -3,7 +3,7 @@ from django.urls import path
 from django.views.generic import TemplateView
 
 
-from .models import []]
+from mortgage.models import *
 
 
 class index(TemplateView):
