@@ -1,1 +1,1 @@
-web: gunicorn Mortgage-Hack.wsgi
+web: gunicorn mo-hawk.wsgi
