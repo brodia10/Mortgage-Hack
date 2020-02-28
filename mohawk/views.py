@@ -8,8 +8,8 @@ from mortgage.models import *
 
 
 class index(TemplateView):
-    template_name = '/index.html'
+    template_name = 'index.html'
 
 
 class CreateView(generic.CreateView):
-    template_name = '/create.html'
+    template_name = 'create.html'
