@@ -1,1 +1,1 @@
-web: gunicorn mo-hawk.wsgi
+web: gunicorn mohawk.wsgi
