@@ -1,3 +1,3 @@
-# Mortgage-Hack
+# Mohawk
 
 https://mo-hawk.herokuapp.com/
